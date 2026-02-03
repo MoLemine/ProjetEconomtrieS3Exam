@@ -20,11 +20,11 @@ L’étude repose sur un panel équilibré de **100 entreprises observées sur l
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 | Fichier       | Description                                                                 |
 |---------------|-----------------------------------------------------------------------------|
-| `PD.xlsx`     | Données principales au format panel (long ou wide). Colonnes attendues : id, année, variables explicatives, variable dépendante, etc. |
+| `PD.xlsx`     | Données principales|
 | `script.R`    | Script R autonome et commenté contenant toutes les étapes|
 | `report.pdf`  | Version finale du rapport |
 | `README.md`   | Ce fichier
