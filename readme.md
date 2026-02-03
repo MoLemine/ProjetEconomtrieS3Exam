@@ -22,6 +22,10 @@ L’étude repose sur un panel équilibré de **100 entreprises observées sur l
 
 ## 📁 Structure du projet
 
+├──  PD.xlsx # Données de panel (Excel)
+├──  script.R # Script R complet (toutes les questions avec code)
+├──  report.pdf
+├──  README.md
 
 
 ---
