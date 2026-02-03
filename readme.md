@@ -22,10 +22,12 @@ L’étude repose sur un panel équilibré de **100 entreprises observées sur l
 
 ## 📁 Structure du projet
 
-├──  PD.xlsx # Données de panel (Excel)
-├──  script.R # Script R complet (toutes les questions avec code)
-├──  report.pdf
-├──  README.md
+| Fichier       | Description                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| `PD.xlsx`     | Données principales au format panel (long ou wide). Colonnes attendues : id, année, variables explicatives, variable dépendante, etc. |
+| `script.R`    | Script R autonome et commenté contenant toutes les étapes|
+| `report.pdf`  | Version finale du rapport |
+| `README.md`   | Ce fichier
 
 
 ---
